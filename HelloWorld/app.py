@@ -72,3 +72,8 @@
 # numbers = range(5, 10, 2)  # generates 5 7 9
 # for number in numbers:
 #     print(number)
+
+# tuples
+# tuples are immutable
+# numbers = (1, 2, 3, 3)
+# print(numbers.count(3))
